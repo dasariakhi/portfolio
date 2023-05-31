@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "portfolio-a2cc4",
+    "staging": "login-c2dcc",
+    "production": "portfolio-a2cc4"
+  },
+  "targets": {},
+  "etags": {}
+}

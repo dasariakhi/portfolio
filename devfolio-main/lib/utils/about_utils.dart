@@ -1,0 +1,11 @@
+class AboutUtils {
+  static const String aboutMeHeadline =
+      'I\'m Akhil Teja Dasari, a Mobile Developer- Flutter';
+  static const String aboutProject2 =
+      'The project involved creating a responsive movie app using Flutter that utilized TheMovieDB API. The home page of the Flutter app displayed trending movies, series, persons, and trailers. Users could search for any movie and retrieve information about it. Additionally, users had the option to add movies to their favorite list. The app integrated Google login using Firebase authentication, and Hive, a local database solution for Flutter, was used to store the favorite movie list. Overall, the Flutter-based project focused on providing a user-friendly interface for browsing and exploring movies, along with personalized features like favoriting movies and accessing them conveniently.';
+  static const String aboutProject1 =
+      'Using the Flutter Framework Web, I created the restaurant and cuisine suggestions system, a cross-browser compatible website with a responsive design. A machine-learning technique based on Pearson similarity is being used in the project to identify people who are similar to each other based on the data (reviews of restaurants). Using Flask APIs, I constructed APIs, trained data, and utilised Firebase Authentication to allow users to log in. As a result, anytime a person logs in, their information is verified before being submitted to the back end, and they can view their history and restaurant suggestions. The best restaurants will be displayed to any new users. Additionally, the information is stored and shown on the users home page when they rate a restaurant. ';
+
+  static const String aboutMeDetail =
+      'I\'m a Fresh Graduate with a major in Information System Technology from Concordia University, Canada. I have over 2 years of experience developing mobile apps, specializing in Flutter development. I am passionate about creating dynamic and responsive mobile applications using Flutter and Dart. My skills include building cross-platform apps for iOS and Android, integrating third-party libraries, working with REST APIs, and employing Agile development methodologies. Key technologies Iam proficient in are Flutter SDK, Dart, Firebase, Google Cloud Platform, REST APIs, Material Design.';
+}
